@@ -1,5 +1,5 @@
-##############################################################
-## Readme.md | 06/02/2022 ####################################
+
+## Introduction | 06/02/2022 
 
 Greetings. Im Zylenxx, formerly known as Centroid.
 Im a 19 yo. producer from Germany who recently has (re-)started coding in GLUA within Gmod.
@@ -17,6 +17,3 @@ Special notes:
   > Zylenxx#0485
 
 Enjoy looking through my stuff!
-
-## Readme.md | 06/02/2022 ####################################
-##############################################################
