@@ -2,7 +2,7 @@
 ## Introduction | 06/02/2022 
 
 Greetings. Im Zylenxx, formerly known as Centroid.
-Im a 19 yo. producer from Germany who recently has (re-)started coding in GLUA within Gmod.
+Im a 20 yo. producer from Germany who recently has (re-)started coding in GLUA within Gmod.
 
 
 For now most Files you will see here will consist of things i have either coded in E2 or in GLUA itself.
